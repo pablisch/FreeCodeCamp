@@ -56,7 +56,7 @@ main {
   padding: 10px 10px 10px 15px;
   font-size: 0.8em;
   color: rgb(90, 72, 32);
-  max-width: 200px;
+  max-width: 200;
 }
 
 fieldset {
